@@ -1,7 +1,7 @@
 # Matrix-calculator
 
 ### This project takes the dimensions of two matrices then, takes tha value of these two matrices
-### and ask you what kind of operation you wish to do for these to matrices "OP" 
+### and ask you what kind of operation you wish to do for these matrices "OP" 
 
 
 ##### OP 1 : ADD
